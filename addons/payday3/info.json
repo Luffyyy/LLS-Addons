@@ -1,5 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_info.schema.json",
   "name": "PAYDAY 3",
-  "description": "Lua types for PAYDAY 3 to be used for UE4SS mods"
+  "description": "Lua types for PAYDAY 3 to be used for UE4SS mods",
+  "size": 1380,
+  "hasPlugin": false
 }
