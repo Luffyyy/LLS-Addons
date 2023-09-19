@@ -135,3 +135,6 @@
 	path = addons/fivem/module
 	url = https://github.com/tf-framework/fivem-lls-addon.git
 	branch = dist
+[submodule "addons/payday3/module"]
+	path = addons/payday3/module
+	url = https://github.com/Luffyyy/PD3-Types-LLS-Addon.git
